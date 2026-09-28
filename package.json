@@ -2,6 +2,6 @@
   "name": "returnfour",
   "private": true,
   "scripts": {
-    "build": "mkdir -p dist && cp index.html dist/index.html && cp styles.css dist/styles.css && cp app.js dist/app.js"
+    "build": "echo static"
   }
 }
